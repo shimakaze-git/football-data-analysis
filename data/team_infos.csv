@@ -1,0 +1,1081 @@
+id,url,league_name,team_name,league_country
+0,241,Spain Primera Division ,FC Barcelona,Spain
+1,11,English Premier League ,Manchester United,England
+2,5,English Premier League ,Chelsea,England
+3,243,Spain Primera Division ,Real Madrid,Spain
+4,1,English Premier League ,Arsenal,England
+5,9,English Premier League ,Liverpool,England
+6,22,German 1. Bundesliga ,Borussia Dortmund,Germany
+7,21,German 1. Bundesliga ,FC Bayern München,Germany
+8,10,English Premier League ,Manchester City,England
+9,73,French Ligue 1 ,Paris Saint-Germain,France
+10,245,Holland Eredivisie ,Ajax,Netherlands
+11,240,Spain Primera Division ,Atlético Madrid,Spain
+12,191,Austrian Football Bundesliga ,FC Red Bull Salzburg,Austria
+13,44,Italian Serie A ,Inter,Italy
+14,47,Italian Serie A ,Milan,Italy
+15,45,Italian Serie A ,Juventus,Italy
+16,18,English Premier League ,Tottenham Hotspur,England
+17,112172,German 1. Bundesliga ,RB Leipzig,Germany
+18,1943,English Premier League ,Bournemouth,England
+19,48,Italian Serie A ,Napoli,Italy
+20,7,English Premier League ,Everton,England
+21,32,German 1. Bundesliga ,Bayer 04 Leverkusen,Germany
+22,52,Italian Serie A ,Roma,Italy
+23,34,German 1. Bundesliga ,FC Schalke 04,Germany
+24,95,English Premier League ,Leicester City,England
+25,461,Spain Primera Division ,Valencia CF,Spain
+26,110,English Premier League ,Wolverhampton Wanderers,England
+27,66,French Ligue 1 ,Olympique Lyonnais,France
+28,19,English Premier League ,West Ham United,England
+29,110374,Italian Serie A ,Fiorentina,Italy
+30,247,Holland Eredivisie ,PSV,Netherlands
+31,1792,English Premier League ,Norwich City,England
+32,449,Spain Primera Division ,Real Betis,Spain
+33,1824,German 1. Bundesliga ,Eintracht Frankfurt,Germany
+34,38,German 1. Bundesliga ,SV Werder Bremen,Germany
+35,234,Portuguese Liga ZON SAGRES ,SL Benfica,Portugal
+36,481,Spain Primera Division ,Sevilla FC,Spain
+37,69,French Ligue 1 ,AS Monaco,France
+38,219,French Ligue 1 ,Olympique de Marseille,France
+39,2,English Premier League ,Aston Villa,England
+40,13,English Premier League ,Newcastle United,England
+41,110679,German 3. Bundesliga ,Bayern München II,Germany
+42,236,Portuguese Liga ZON SAGRES ,FC Porto,Portugal
+43,74,French Ligue 1 ,Stade Rennais FC,France
+44,237,Portuguese Liga ZON SAGRES ,Sporting CP,Portugal
+45,65,French Ligue 1 ,LOSC Lille,France
+46,17,English Premier League ,Southampton,England
+47,39,Italian Serie A ,Atalanta,Italy
+48,23,German 1. Bundesliga ,Borussia Mönchengladbach,Germany
+49,50,Italian Serie A ,Parma,Italy
+50,457,Spain Primera Division ,Real Sociedad,Spain
+51,325,Turkish Süper Lig ,Galatasaray SK,Turkey
+52,28,German 2. Bundesliga ,Hamburger SV,Germany
+53,10029,German 1. Bundesliga ,TSG 1899 Hoffenheim,Germany
+54,175,German 1. Bundesliga ,VfL Wolfsburg,Germany
+55,326,Turkish Süper Lig ,Fenerbahçe SK,Turkey
+56,190,Italian Serie A ,Brescia,Italy
+57,448,Spain Primera Division ,Athletic Club de Bilbao,Spain
+58,8,English League Championship ,Leeds United,England
+59,1799,English Premier League ,Crystal Palace,England
+60,1795,English Premier League ,Watford,England
+61,166,German 1. Bundesliga ,Hertha BSC,Germany
+62,211,Croatian Prva HNL ,Dinamo Zagreb,Croatia
+63,46,Italian Serie A ,Lazio,Italy
+64,1794,English Premier League ,Sheffield United,England
+65,144,English League Championship ,Fulham,England
+66,36,German 2. Bundesliga ,VfB Stuttgart,Germany
+67,1842,Italian Serie A ,Cagliari,Italy
+68,327,Turkish Süper Lig ,Beşiktaş JK,Turkey
+69,113926,English League Two ,Salford City,England
+70,78,Scottish Premiership ,Celtic,Scotland
+71,72,French Ligue 1 ,OGC Nice,France
+72,229,Belgian Jupiler Pro League ,RSC Anderlecht,Belgium
+73,1879,Mexican Liga MX ,Club América,Mexico
+74,1877,Argentina Primera División  ,Boca Juniors,Argentina
+75,483,Spain Primera Division ,Villarreal CF,Spain
+76,105035,International,Netherlands,Netherlands
+77,31,German 1. Bundesliga ,1. FC Köln,Germany
+78,101088,Argentina Primera División  ,Vélez Sarsfield,Argentina
+79,1370,International,Brazil,Brazil
+80,1808,English Premier League ,Brighton & Hove Albion,England
+81,1335,International,France,France
+82,452,Spain Primera Division ,RCD Espanyol,Spain
+83,169,German 1. Bundesliga ,1. FSV Mainz 05,Germany
+84,246,Holland Eredivisie ,Feyenoord,Netherlands
+85,450,Spain Primera Division ,RC Celta,Spain
+86,25,German 1. Bundesliga ,SC Freiburg,Germany
+87,110556,Italian Serie A ,Genoa,Italy
+88,1337,International,Germany,Germany
+89,462,Spain Primera Division ,Real Valladolid CF,Spain
+90,91,English League Championship ,Derby County,England
+91,1876,Argentina Primera División  ,River Plate,Argentina
+92,436,Turkish Süper Lig ,Trabzonspor,Turkey
+93,1880,Mexican Liga MX ,Guadalajara,Mexico
+94,453,Spain Primera Division ,RCD Mallorca,Spain
+95,1806,English League Championship ,Stoke City,England
+96,1790,English League One ,Portsmouth,England
+97,1819,French Ligue 1 ,AS Saint-Étienne,France
+98,1796,English Premier League ,Burnley,England
+99,110636,German 1. Bundesliga ,Fortuna Düsseldorf,Germany
+100,1386,International,Mexico,Mexico
+101,189,Italian Serie A ,Bologna,Italy
+102,1318,International,England,England
+103,71,French Ligue 1 ,FC Nantes,France
+104,14,English League Championship ,Nottingham Forest,England
+105,101059,Ukrainian Premier League ,Shakhtar Donetsk,Ukraine
+106,1362,International,Spain,Spain
+107,54,Italian Serie A ,Torino,Italy
+108,106,English League One ,Sunderland,England
+109,1960,English League Championship ,Swansea City,England
+110,59,French Ligue 1 ,FC Girondins de Bordeaux,France
+111,100409,German 1. Bundesliga ,FC Augsburg,Germany
+112,697,USA Major League Soccer ,LA Galaxy,United States
+113,1878,Mexican Liga MX ,Cruz Azul,Mexico
+114,673,Belgian Jupiler Pro League ,KRC Genk,Belgium
+115,1369,International,Argentina,Argentina
+116,1860,Spain Primera Division ,Getafe CF,Spain
+117,112885,USA Major League Soccer ,Atlanta United,United States
+118,112996,USA Major League Soccer ,Los Angeles FC,United States
+119,1354,International,Portugal,Portugal
+120,109,English League Championship ,West Bromwich Albion,England
+121,86,Scottish Premiership ,Rangers FC,Scotland
+122,1032,Mexican Liga MX ,Monterrey,Mexico
+123,1831,German 1. Bundesliga ,1. FC Union Berlin,Germany
+124,485,German 2. Bundesliga ,Hannover 96,Germany
+125,1906,Holland Eredivisie ,AZ Alkmaar,Netherlands
+126,1939,English League Championship ,Huddersfield Town,England
+127,55,Italian Serie A ,Udinese,Italy
+128,896,Swiss Super League ,FC Basel 1893,Switzerland
+129,101085,Argentina Primera División  ,Racing Club,Argentina
+130,1970,Mexican Liga MX ,Tigres U.A.N.L.,Mexico
+131,242,Spanish Segunda División ,Deportivo de La Coruña,Spain
+132,94,English League One ,Ipswich Town,England
+133,1343,International,Italy,Italy
+134,1028,Mexican Liga MX ,Monarcas Morelia,Mexico
+135,1837,Italian Serie A ,Sampdoria,Italy
+136,76,French Ligue 1 ,RC Strasbourg Alsace,France
+137,1629,Campeonato Brasileiro Série A ,Grêmio,Brazil
+138,674,Belgian Jupiler Pro League ,KAA Gent,Belgium
+139,231,Belgian Jupiler Pro League ,Club Brugge KV,Belgium
+140,101014,Turkish Süper Lig ,Medipol Başakşehir FK,Turkey
+141,1325,International,Belgium,Belgium
+142,1961,English League Championship ,Cardiff City,England
+143,315,Russian Premier League ,PFC CSKA Moscow,Russia
+144,1387,International,United States,United States
+145,110062,Spanish Segunda División ,Girona FC,Spain
+146,111974,Italian Serie A ,Sassuolo,Italy
+147,100761,Romanian Liga I ,FCSB (Steaua),Romania
+148,112809,Portuguese Liga ZON SAGRES ,Famalicão,Portugal
+149,70,French Ligue 1 ,Montpellier HSC,France
+150,171,German 2. Bundesliga ,1. FC Nürnberg,Germany
+151,4,English League One ,Bolton Wanderers,England
+152,1925,English League Championship ,Brentford,England
+153,1853,Spain Primera Division ,Levante UD,Spain
+154,479,Spain Primera Division ,CA Osasuna,Spain
+155,101047,Ukrainian Premier League ,Dynamo Kyiv,Ukraine
+156,1809,French Ligue 1 ,Toulouse Football Club,France
+157,110395,Argentina Primera División  ,Club Atlético Lanús,Argentina
+158,100767,Russian Premier League ,Spartak Moscow,Russia
+159,111839,Chinese Super League ,Guangzhou Evergrande Taobao FC,China PR
+160,573,Spanish Segunda División ,Málaga CF,Spain
+161,29,German 3. Bundesliga ,1. FC Kaiserslautern,Germany
+162,88,English League Championship ,Birmingham City,England
+163,3,English League Championship ,Blackburn Rovers,England
+164,12,English League Championship ,Middlesbrough,England
+165,280,Greek Super League ,Olympiacos CFP,Greece
+166,15,English League Championship ,Queens Park Rangers,England
+167,33,German 3. Bundesliga ,TSV 1860 München,Germany
+168,472,Spanish Segunda División ,UD Las Palmas,Spain
+169,463,Spain Primera Division ,Deportivo Alavés,Spain
+170,1952,English League Championship ,Hull City,England
+171,100765,Russian Premier League ,Lokomotiv Moscow,Russia
+172,244,Spanish Segunda División ,Real Zaragoza,Spain
+173,232,Belgian Jupiler Pro League ,Standard de Liège,Belgium
+174,1881,Mexican Liga MX ,U.N.A.M.,Mexico
+175,1919,English League Championship ,Bristol City,England
+176,121,English League Two ,Crewe Alexandra,England
+177,110093,Argentina Primera División  ,Independiente,Argentina
+178,347,Italian Serie A ,Lecce,Italy
+179,101146,Japanese J. League Division 1 ,Vissel Kobe,Japan
+180,100888,Spain Primera Division ,CD Leganés,Spain
+181,110781,Mexican Liga MX ,Club León,Mexico
+182,1940,English League Two ,Mansfield Town,England
+183,64,French Ligue 2 ,Racing Club de Lens,France
+184,1793,English League Championship ,Reading,England
+185,10030,German 1. Bundesliga ,SC Paderborn 07,Germany
+186,254,Austrian Football Bundesliga ,SK Rapid Wien,Austria
+187,111109,International,Colombia,Colombia
+188,689,USA Major League Soccer ,New York Red Bulls,United States
+189,1807,English League Championship ,Sheffield Wednesday,England
+190,1804,English League Two ,Bradford City,England
+191,1945,English League One ,Bury,England
+192,89,English League Championship ,Charlton Athletic,England
+193,1882,Mexican Liga MX ,Deportivo Toluca,Mexico
+194,110832,Spain Primera Division ,Granada CF,Spain
+195,206,Italian Serie A ,Hellas Verona,Italy
+196,1871,Polish T-Mobile Ekstraklasa ,Legia Warszawa,Poland
+197,224,French Ligue 1 ,Nîmes Olympique,France
+198,1861,Spanish Segunda División ,UD Almería,Spain
+199,112678,Mexican Liga MX ,Atlético de San Luis,Mexico
+200,113134,Mexican Liga MX ,FC Juárez,Mexico
+201,110144,Mexican Liga MX ,Santos Laguna,Mexico
+202,1365,International,Turkey,Turkey
+203,1920,English League Two ,Oldham Athletic,England
+204,1356,International,Romania,Romania
+205,467,Spain Primera Division ,SD Eibar,Spain
+206,1932,English League Championship ,Barnsley,England
+207,1935,English League Two ,Colchester United,England
+208,97,English League Championship ,Millwall,England
+209,110147,Mexican Liga MX ,Pachuca,Mexico
+210,1801,English League Championship ,Preston North End,England
+211,503,German 2. Bundesliga ,SG Dynamo Dresden,Germany
+212,1377,International,Uruguay,Uruguay
+213,111822,Austrian Football Bundesliga ,Wolfsberger AC,Austria
+214,62,French Ligue 2 ,En Avant de Guingamp,France
+215,110329,German 2. Bundesliga ,FC St. Pauli,Germany
+216,1886,International,Hungary,Hungary
+217,1900,Portuguese Liga ZON SAGRES ,Moreirense FC,Portugal
+218,1929,English League Two ,Plymouth Argyle,England
+219,480,Spanish Segunda División ,Rayo Vallecano,Spain
+220,1896,Portuguese Liga ZON SAGRES ,SC Braga,Portugal
+221,266,Czech Republic Gambrinus Liga ,SK Slavia Praha,Czech Republic
+222,379,French Ligue 1 ,Stade de Reims,France
+223,1530,French Ligue 1 ,Angers SCO,France
+224,900,Swiss Super League ,BSC Young Boys,Switzerland
+225,1353,International,Poland,Poland
+226,112791,Italian Serie A ,SPAL,Italy
+227,267,Czech Republic Gambrinus Liga ,Sparta Praha,Czech Republic
+228,111701,UAE Arabian Gulf League ,Al Ain FC,United Arab Emirates
+229,110816,Romanian Liga I ,CFR Cluj,Romania
+230,1944,English League Two ,Cambridge United,England
+231,110569,French Ligue 1 ,Dijon FCO,France
+232,68,French Ligue 1 ,FC Metz,France
+233,873,Polish T-Mobile Ekstraklasa ,Lech Poznań,Poland
+234,1958,English League Two ,Leyton Orient,England
+235,393,Greek Super League ,PAOK,Greece
+236,112540,Chinese Super League ,Shanghai SIPG FC,China PR
+237,112828,USA Major League Soccer ,New York City FC,United States
+238,111817,French Ligue 2 ,Paris FC,France
+239,110532,German 3. Bundesliga ,SV Waldhof Mannheim,Germany
+240,561,English League Two ,Forest Green Rovers,England
+241,1917,English League Championship ,Wigan Athletic,England
+242,192,Italian Serie B ,Chievo Verona,Italy
+243,1331,International,Denmark,Denmark
+244,110704,Spanish Segunda División ,FC Barcelona B,Spain
+245,111239,German 3. Bundesliga ,FC Ingolstadt 04,Germany
+246,110150,Mexican Liga MX ,Querétaro,Mexico
+247,378,French Ligue 1 ,Stade Brestois 29,France
+248,110145,Mexican Liga MX ,Tiburones Rojos de Veracruz,Mexico
+249,1887,Portuguese Liga ZON SAGRES ,Vitória Guimarães,Portugal
+250,605,Saudi Abdul L. Jameel League ,Al Hilal,Saudi Arabia
+251,101114,Mexican Liga MX ,Club Atlas,Mexico
+252,111678,Mexican Liga MX ,Club Tijuana,Mexico
+253,688,USA Major League Soccer ,DC United,United States
+254,113149,USA Major League Soccer ,FC Cincinnati,United States
+255,1923,English League Championship ,Luton Town,England
+256,456,Spanish Segunda División ,Racing Santander,Spain
+257,230,Belgian Jupiler Pro League ,Royal Antwerp FC,Belgium
+258,1013,Argentina Primera División  ,San Lorenzo de Almagro,Argentina
+259,57,French Ligue 2 ,AJ Auxerre,France
+260,1816,French Ligue 1 ,Amiens SC,France
+261,1926,English League One ,Blackpool,England
+262,1800,English League One ,Coventry City,England
+263,111112,International,Côte d'Ivoire,Ivory Coast
+264,1915,Holland Eredivisie ,FC Groningen,Netherlands
+265,819,Danish Superliga ,FC København,Denmark
+266,217,French Ligue 2 ,FC Lorient,France
+267,1889,Portuguese Liga ZON SAGRES ,Os Belenenses,Portugal
+268,111144,USA Major League Soccer ,Seattle Sounders FC,United States
+269,1909,Holland Eredivisie ,Vitesse,Netherlands
+270,111235,German 2. Bundesliga ,1. FC Heidenheim 1846,Germany
+271,1322,International,Austria,Austria
+272,92,English League Two ,Grimsby Town,England
+273,112254,English League Two ,Newport County,England
+274,1938,English League One ,Peterborough United,England
+275,110839,Spanish Segunda División ,SD Huesca,Spain
+276,209,Austrian Football Bundesliga ,SK Sturm Graz,Austria
+277,160,German 2. Bundesliga ,VfL Bochum 1848,Germany
+278,1803,English League Two ,Walsall,England
+279,112026,Italian Serie B ,Benevento,Italy
+280,111459,International,Chile,Chile
+281,1413,International,China PR,China PR
+282,110980,Chilian Campeonato Nacional ,Colo-Colo,Chile
+283,1746,Italian Serie B ,Empoli,Italy
+284,27,German 3. Bundesliga ,FC Hansa Rostock,Germany
+285,1908,Holland Eredivisie ,FC Twente,Netherlands
+286,252,Austrian Football Bundesliga ,LASK Linz,Austria
+287,111091,Polish T-Mobile Ekstraklasa ,Lechia Gdańsk,Poland
+288,1930,English League Two ,Northampton Town,England
+289,1951,English League One ,Oxford United,England
+290,110827,Spanish Segunda División ,Real Oviedo,Spain
+291,110975,Chilian Campeonato Nacional ,Universidad Católica,Chile
+292,1367,International,Wales,Wales
+293,101100,Colombian Liga Postobón ,Atlético Nacional,Colombia
+294,110404,Argentina Primera División  ,Club Atlético Banfield,Argentina
+295,101121,Mexican Liga MX ,Club Necaxa,Mexico
+296,112093,Japanese J. League Division 1 ,Gamba Osaka,Japan
+297,101147,Japanese J. League Division 1 ,Kashima Antlers,Japan
+298,1738,French Ligue 2 ,Le Havre AC,France
+299,1825,German 3. Bundesliga ,MSV Duisburg,Germany
+300,143,English League Two ,Exeter City,England
+301,167,German 3. Bundesliga ,KFC Uerdingen 05,Germany
+302,1738,French Ligue 2 ,Le Havre AC,France
+303,1053,Campeonato Brasileiro Série A ,Santos,Brazil
+304,278,Greek Super League ,AEK Athens,Greece
+305,112259,English League One ,AFC Wimbledon,England
+306,1903,Holland Eredivisie ,FC Utrecht,Netherlands
+307,320,Swedish Allsvenskan ,Malmö FF,Sweden
+308,1798,English League One ,Milton Keynes Dons,England
+309,1375,International,Paraguay,Paraguay
+310,1359,International,Scotland,Scotland
+311,1949,English League Two ,Scunthorpe United,England
+312,1934,English League Two ,Swindon Town,England
+313,567,Campeonato Brasileiro Série A ,Fluminense,Brazil
+314,576,German 2. Bundesliga ,Holstein Kiel,Germany
+315,101101,Colombian Liga Postobón ,Junior FC,Colombia
+316,1959,English League Two ,Macclesfield Town,England
+317,1884,Greek Super League ,Panathinaikos FC,Greece
+318,111400,Australian Hyundai A-League ,Sydney FC,Australia
+319,111455,International,Canada,Canada
+320,112378,Chinese Super League ,Dalian YiFang FC,China PR
+321,1788,Danish Superliga ,FC Nordsjælland,Denmark
+322,113180,Romanian Liga I ,FC Viitorul,Romania
+323,256,Austrian Football Bundesliga ,FK Austria Wien,Austria
+324,100325,Finnish Veikkausliiga ,HJK Helsinki,Finland
+325,110482,German 3. Bundesliga ,Hallescher FC,Germany
+326,110724,Belgian Jupiler Pro League ,KV Mechelen,Belgium
+327,149,English League One ,Lincoln City,England
+328,111399,Australian Hyundai A-League ,Perth Glory,Australia
+329,1928,English League Two ,Port Vale,England
+330,111651,USA Major League Soccer ,Toronto FC,United States
+331,15048,English League One ,Tranmere Rovers,England
+332,114023,Australian Hyundai A-League ,Western United FC,Australia
+333,1907,Holland Eredivisie ,Willem II,Netherlands
+334,1873,Polish T-Mobile Ekstraklasa ,Wisła Kraków,Poland
+335,1854,Spanish Segunda División ,Albacete BP,Spain
+336,1035,Campeonato Brasileiro Série A ,Atlético Mineiro,Brazil
+337,110406,Argentina Primera División  ,Club Atlético Colón,Argentina
+338,100757,Romanian Liga I ,Dinamo Bucureşti,Romania
+339,101083,Argentina Primera División  ,Estudiantes de La Plata,Argentina
+340,1802,English League One ,Gillingham,England
+341,80,Scottish Premiership ,Heart of Midlothian,Scotland
+342,1048,Campeonato Brasileiro Série A ,Internacional,Brazil
+343,110745,Polish T-Mobile Ekstraklasa ,Jagiellonia Białystok,Poland
+344,111730,Japanese J. League Division 1 ,Kawasaki Frontale,Japan
+345,357,English League Two ,Morecambe,England
+346,1352,International,Norway,Norway
+347,744,Portuguese Liga ZON SAGRES ,Rio Ave FC,Portugal
+348,1913,Holland Eredivisie ,SC Heerenveen,Netherlands
+349,680,Belgian Jupiler Pro League ,Sint-Truidense VV,Belgium
+350,361,English League Two ,Stevenage,England
+351,1363,International,Sweden,Sweden
+352,15029,Chilian Campeonato Nacional ,Universidad de Chile,Chile
+353,308,Romanian Liga I ,Universitatea Craiova,Romania
+354,111487,International,Venezuela,Venezuela
+355,487,German 2. Bundesliga ,VfL Osnabrück,Germany
+356,101151,Japanese J. League Division 1 ,Yokohama F. Marinos,Japan
+357,112139,Saudi Abdul L. Jameel League ,Al Nassr,Saudi Arabia
+358,111710,Argentina Primera División  ,Defensa y Justicia,Argentina
+359,112606,USA Major League Soccer ,Orlando City SC,United States
+360,100831,Spanish Segunda División ,AD Alcorcón,Spain
+361,110065,Spanish Segunda División ,CF Fuenlabrada,Spain
+362,110890,English League Two ,Crawley Town,England
+363,111710,Argentina Primera División  ,Defensa y Justicia,Argentina
+364,710,Swedish Allsvenskan ,Djurgårdens IF,Sweden
+365,110500,German 3. Bundesliga ,Eintracht Braunschweig,Germany
+366,319,Swedish Allsvenskan ,IFK Göteborg,Sweden
+367,111108,International,Peru,Peru
+368,110738,Italian Serie B ,Pisa,Italy
+369,110746,Polish T-Mobile Ekstraklasa ,Pogoń Szczecin,Poland
+370,111560,Belgian Jupiler Pro League ,Royal Excel Mouscron,Belgium
+371,1357,International,Russia,Russia
+372,127,English League One ,Shrewsbury,England
+373,1954,English League One ,Southend United,England
+374,210,French Ligue 2 ,Stade Malherbe Caen,France
+375,1364,International,Switzerland,Switzerland
+376,205,Italian Serie B ,Venezia FC,Italy
+377,614,French Ligue 2 ,AC Ajaccio,France
+378,433,Swedish Allsvenskan ,AIK,Sweden
+379,77,Scottish Premiership ,Aberdeen,Scotland
+380,112387,Saudi Abdul L. Jameel League ,Al Ahli,Saudi Arabia
+381,110734,Italian Serie B ,Crotone,Italy
+382,110591,German 3. Bundesliga ,FC Carl Zeiss Jena,Germany
+383,226,French Ligue 2 ,FC Sochaux-Montbéliard,France
+384,894,Swiss Super League ,FC Zürich,Switzerland
+385,110592,German 3. Bundesliga ,FSV Zwickau,Germany
+386,708,Swedish Allsvenskan ,Hammarby IF,Sweden
+387,112224,Australian Hyundai A-League ,Melbourne City FC,Australia
+388,110396,Argentina Primera División  ,Newell's Old Boys,Argentina
+389,199,Italian Serie B ,Perugia,Italy
+390,10031,Portuguese Liga ZON SAGRES ,Portimonense SC,Portugal
+391,111140,USA Major League Soccer ,Portland Timbers,United States
+392,110152,Mexican Liga MX ,Puebla FC,Mexico
+393,1355,International,Republic of Ireland,Republic of Ireland
+394,2023,Spanish Segunda División ,SD Ponferradina,Spain
+395,110502,German 2. Bundesliga ,SV Darmstadt 98,Germany
+396,110597,German 3. Bundesliga ,SV Meppen,Germany
+397,110955,Chinese Super League ,Shanghai Greenland Shenhua FC,China PR
+398,101041,Turkish Süper Lig ,Sivasspor,Turkey
+399,172,German 3. Bundesliga ,SpVgg Unterhaching,Germany
+400,100646,Holland Eredivisie ,Sparta Rotterdam,Netherlands
+401,111132,Rep. Ireland Airtricity League ,UCD AFC,Republic of Ireland
+402,110645,German 3. Bundesliga ,Viktoria Köln,Germany
+403,100769,Russian Premier League ,Zenit St. Petersburg,Russia
+404,113142,Turkish Süper Lig ,Alanyaspor,Turkey
+405,112516,Portuguese Liga ZON SAGRES ,CD Tondela,Portugal
+406,113677,Campeonato Brasileiro Série A ,CSA - AL,Brazil
+407,111465,International,Ecuador,Ecuador
+408,101150,Japanese J. League Division 1 ,FC Tokyo,Japan
+409,111657,Italian Serie B ,Frosinone,Italy
+410,101025,Turkish Süper Lig ,Gençlerbirliği SK,Turkey
+411,112978,Chinese Super League ,Hebei China Fortune FC,China PR
+412,112162,Chinese Super League ,Jiangsu Suning FC,China PR
+413,111339,Turkish Süper Lig ,Kasimpaşa SK,Turkey
+414,111397,Australian Hyundai A-League ,Melbourne Victory,Australia
+415,111659,French Ligue 2 ,Rodez Aveyron Football,France
+416,110580,Argentina Primera División  ,Rosario Central,Argentina
+417,110373,Italian Serie B ,US Salernitana 1919,Italy
+418,111575,Japanese J. League Division 1 ,Urawa Red Diamonds,Japan
+419,110456,French Ligue 2 ,Valenciennes FC,France
+420,260,Spanish Segunda División ,CD Tenerife,Spain
+421,1936,English League Two ,Cheltenham Town,England
+422,1815,French Ligue 2 ,Clermont Foot 63,France
+423,159,German 2. Bundesliga ,DSC Arminia Bielefeld,Germany
+424,837,Rep. Ireland Airtricity League ,Dundalk,Republic of Ireland
+425,1516,Danish Superliga ,FC Midtjylland,Denmark
+426,1334,International,Finland,Finland
+427,634,Holland Eredivisie ,Fortuna Sittard,Netherlands
+428,101025,Turkish Süper Lig ,Gençlerbirliği SK,Turkey
+429,81,Scottish Premiership ,Hibernian,Scotland
+430,1477,Korean K League Classic ,Jeonbuk Hyundai Motors,Korea Republic
+431,100081,Belgian Jupiler Pro League ,KV Kortrijk,Belgium
+432,200,Italian Serie B ,Pescara,Italy
+433,298,Norwegian Eliteserien ,Rosenborg BK,Norway
+434,531,German 3. Bundesliga ,SC Preußen Münster,Germany
+435,165,German 2. Bundesliga ,SpVgg Greuther Fürth,Germany
+436,696,USA Major League Soccer ,Sporting Kansas City,United States
+437,1933,English League One ,Wycombe Wanderers,England
+438,271,Danish Superliga ,Aarhus GF,Denmark
+439,111768,Chinese Super League ,Beijing Sinobo Guoan FC,China PR
+440,1898,Portuguese Liga ZON SAGRES ,Boavista FC,Portugal
+441,15015,English League One ,Burton Albion,England
+442,477,Spanish Segunda División ,CD Numancia,Spain
+443,694,USA Major League Soccer ,Colorado Rapids,United States
+444,687,USA Major League Soccer ,Columbus Crew SC,United States
+445,1968,Spanish Segunda División ,Cádiz CF,Spain
+446,468,Spanish Segunda División ,Elche CF,Spain
+447,112627,French Ligue 2 ,FC Chambly Oise,France
+448,695,USA Major League Soccer ,FC Dallas,United States
+449,506,German 2. Bundesliga ,FC Erzgebirge Aue,Germany
+450,110197,German 3. Bundesliga ,FC Würzburger Kickers,Germany
+451,110776,Turkish Süper Lig ,Gazişehir Gaziantep F.K.,Turkey
+452,100634,Holland Eredivisie ,Heracles Almelo,Netherlands
+453,702,Swedish Allsvenskan ,IFK Norrköping,Sweden
+454,111466,International,India,India
+455,1739,French Ligue 2 ,Le Mans FC,France
+456,112092,Japanese J. League Division 1 ,Nagoya Grampus,Japan
+457,1955,English League One ,Rochdale,England
+458,15005,Belgian Jupiler Pro League ,SV Zulte-Waregem,Belgium
+459,111928,USA Major League Soccer ,San Jose Earthquakes,United States
+460,306,Rep. Ireland Airtricity League ,Shamrock Rovers,Republic of Ireland
+461,111773,Chinese Super League ,Shenzhen FC,China PR
+462,110977,Chilian Campeonato Nacional ,Unión Española,Chile
+463,110588,German 3. Bundesliga ,1. FC Magdeburg,Germany
+464,111019,Argentina Primera División  ,Argentinos Juniors,Argentina
+465,1395,International,Cameroon,Cameroon
+466,1480,English League Two ,Carlisle United,England
+467,112965,Argentina Primera División  ,Central Córdoba,Argentina
+468,111993,Italian Serie B ,Cittadella,Italy
+469,110747,Polish T-Mobile Ekstraklasa ,Cracovia,Poland
+470,111130,International,Egypt,Egypt
+471,1892,Portuguese Liga ZON SAGRES ,FC Paços de Ferreira,Portugal
+472,110770,Swiss Super League ,FC Sion,Switzerland
+473,112429,Chinese Super League ,Guangzhou R&F FC,China PR
+474,110929,South African Premier Division ,Kaizer Chiefs,South Africa
+475,111139,USA Major League Soccer ,Montreal Impact,United States
+476,111086,Polish T-Mobile Ekstraklasa ,Piast Gliwice,Poland
+477,1905,Holland Eredivisie ,RKC Waalwijk,Netherlands
+478,111724,Chinese Super League ,Shandong Luneng TaiShan FC,China PR
+479,112535,Chilian Campeonato Nacional ,Unión La Calera,Chile
+480,1395,International,Cameroon,Cameroon
+481,507,German 3. Bundesliga ,Chemnitzer FC,Germany
+482,693,USA Major League Soccer ,Chicago Fire,United States
+483,142,English League One ,Doncaster Rovers,England
+484,1338,International,Greece,Greece
+485,420,Polish T-Mobile Ekstraklasa ,Górnik Zabrze,Poland
+486,691,USA Major League Soccer ,New England Revolution,United States
+487,459,Spanish Segunda División ,Real Sporting de Gijón,Spain
+488,650,Holland Eredivisie ,ADO Den Haag,Netherlands
+489,1823,French Ligue 2 ,AS Nancy Lorraine,France
+490,110313,English League One ,Accrington Stanley,England
+491,111393,Australian Hyundai A-League ,Adelaide United,Australia
+492,101097,Chilian Campeonato Nacional ,Audax Italiano,Chile
+493,1415,International,Australia,Australia
+494,111395,Australian Hyundai A-League ,Brisbane Roar,Australia
+495,112584,Chilian Campeonato Nacional ,CD Everton de Viña del Mar,Chile
+496,112116,Chilian Campeonato Nacional ,CD O'Higgins,Chile
+497,112124,Italian Serie B ,Castellammare di Stabia,Italy
+498,111396,Australian Hyundai A-League ,Central Coast Mariners,Australia
+499,101148,Japanese J. League Division 1 ,Cerezo Osaka,Japan
+500,112670,Argentina Primera División  ,Club Atlético Talleres,Argentina
+501,568,Campeonato Brasileiro Série A ,Cruzeiro,Brazil
+502,112260,English League One ,Fleetwood Town,England
+503,1888,Portuguese Liga ZON SAGRES ,Gil Vicente FC,Portugal
+504,101084,Argentina Primera División  ,Gimnasia y Esgrima La Plata,Argentina
+505,112444,Japanese J. League Division 1 ,Hokkaido Consadole Sapporo,Japan
+506,101103,Colombian Liga Postobón ,Independiente Medellín,Colombia
+507,101104,Colombian Liga Postobón ,Independiente Santa Fe,Colombia
+508,2013,Belgian Jupiler Pro League ,KAS Eupen,Belgium
+509,101020,Turkish Süper Lig ,Kayserispor,Turkey
+510,101007,Turkish Süper Lig ,MKE Ankaragücü,Turkey
+511,417,Norwegian Eliteserien ,Molde FK,Norway
+512,111398,Australian Hyundai A-League ,Newcastle Jets,Australia
+513,110081,International,Northern Ireland,Northern Ireland
+514,110930,South African Premier Division ,Orlando Pirates,South Africa
+515,112134,USA Major League Soccer ,Philadelphia Union,United States
+516,1797,English League One ,Rotherham United,England
+517,111379,German 3. Bundesliga ,SG Sonnenhof Großaspach,Germany
+518,492,German 2. Bundesliga ,SV Wehen Wiesbaden,Germany
+519,113160,Japanese J. League Division 1 ,Sagan Tosu,Japan
+520,101149,Japanese J. League Division 1 ,Shimizu S-Pulse,Japan
+521,100804,Scottish Premiership ,St. Johnstone FC,Scotland
+522,112410,Italian Serie B ,Trapani,Italy
+523,110468,Czech Republic Gambrinus Liga ,Viktoria Plzeň,Czech Republic
+524,113147,Italian Serie B ,Virtus Entella,Italy
+525,15040,Austrian Football Bundesliga ,WSG Tirol,Austria
+526,112541,Chinese Super League ,Wuhan Zall,China PR
+527,101099,Colombian Liga Postobón ,América de Cali,Colombia
+528,112847,Romanian Liga I ,Astra Giurgiu,Romania
+529,101033,Turkish Süper Lig ,Atiker Konyaspor,Turkey
+530,110854,Spanish Segunda División ,CF Reus Deportiu,Spain
+531,112705,Chilian Campeonato Nacional ,Coquimbo Unido,Chile
+532,112168,Italian Serie B ,Cosenza,Italy
+533,111722,Colombian Liga Postobón ,Deportes Tolima,Colombia
+534,101102,Colombian Liga Postobón ,Deportivo Cali,Colombia
+535,111821,Austrian Football Bundesliga ,FC Admira Wacker Mödling,Austria
+536,114147,Romanian Liga I ,FC Hermannstadt,Romania
+537,113183,Japanese J. League Division 1 ,Oita Trinita,Japan
+538,113958,Italian Serie B ,Pordenone,Italy
+539,112075,Austrian Football Bundesliga ,SKN St. Pölten,Austria
+540,543,German 2. Bundesliga ,SSV Jahn Regensburg,Germany
+541,820,Danish Superliga ,Aalborg BK,Denmark
+542,101033,Turkish Süper Lig ,Atiker Konyaspor,Turkey
+543,305,Rep. Ireland Airtricity League ,Bohemian FC,Republic of Ireland
+544,269,Danish Superliga ,Brøndby IF,Denmark
+545,1327,International,Bulgaria,Bulgaria
+546,1457,Turkish Süper Lig ,Denizlispor,Turkey
+547,294,French Ligue 2 ,ESTAC Troyes,France
+548,1805,French Ligue 2 ,Grenoble Foot 38,France
+549,101026,Turkish Süper Lig ,Göztepe SK,Turkey
+550,432,Swedish Allsvenskan ,Helsingborgs IF,Sweden
+551,1750,Belgian Jupiler Pro League ,KSV Cercle Brugge,Belgium
+552,682,Belgian Jupiler Pro League ,KV Oostende,Belgium
+553,1844,Italian Serie B ,Livorno,Italy
+554,1914,Holland Eredivisie ,PEC Zwolle,Netherlands
+555,1843,Italian Serie B ,Palermo,Italy
+556,15009,Austrian Football Bundesliga ,SCR Altach,Austria
+557,423,Rep. Ireland Airtricity League ,St. Patrick's Athletic,Republic of Ireland
+558,983,Korean K League Classic ,Suwon Samsung Bluewings,Korea Republic
+559,1473,Korean K League Classic ,Ulsan Hyundai FC,Korea Republic
+560,607,Saudi Abdul L. Jameel League ,Al Ittihad,Saudi Arabia
+561,741,Turkish Süper Lig ,Antalyaspor,Turkey
+562,1847,Italian Serie B ,Ascoli,Italy
+563,111327,Chilian Campeonato Nacional ,CD Huachipato,Chile
+564,110831,Spanish Segunda División ,CD Lugo,Spain
+565,1330,International,Czech Republic,Czech Republic
+566,1445,Danish Superliga ,Esbjerg fB,Denmark
+567,112218,Russian Premier League ,FC Krasnodar,Russia
+568,898,Swiss Super League ,FC St. Gallen,Switzerland
+569,1043,Campeonato Brasileiro Série A ,Flamengo,Brazil
+570,1832,German 2. Bundesliga ,Karlsruher SC,Germany
+571,82,Scottish Premiership ,Kilmarnock,Scotland
+572,83,Scottish Premiership ,Motherwell,Scotland
+573,110227,Russian Premier League ,Rubin Kazan,Russia
+574,110169,German 3. Bundesliga ,SC Fortuna Köln,Germany
+575,1785,Austrian Football Bundesliga ,SV Mattersburg,Austria
+576,1361,International,Slovenia,Slovenia
+577,670,Belgian Jupiler Pro League ,Sporting de Charleroi,Belgium
+578,111434,Italian Serie B ,US Cremonese,Italy
+579,111716,Argentina Primera División  ,Unión de Santa Fe,Argentina
+580,110913,Belgian Jupiler Pro League ,Waasland-Beveren,Belgium
+581,111085,Polish T-Mobile Ekstraklasa ,LKS Lodz,Poland
+582,113391,Romanian Liga I ,Academica Clinceni,Romania
+583,113345,Saudi Abdul L. Jameel League ,Al Adalah,Saudi Arabia
+584,1962,English League One ,Bristol Rovers,England
+585,112533,Chilian Campeonato Nacional ,CD Antofagasta,Chile
+586,110978,Chilian Campeonato Nacional ,CD Cobresal,Chile
+587,110069,Spanish Segunda División ,CD Mirandés,Spain
+588,111328,Chilian Campeonato Nacional ,CD Palestino,Chile
+589,112637,Romanian Liga I ,Gaz Metan Mediaş,Romania
+590,1341,International,Iceland,Iceland
+591,101144,Japanese J. League Division 1 ,Júbilo Iwata,Japan
+592,111083,Polish T-Mobile Ekstraklasa ,Korona Kielce,Poland
+593,113158,Japanese J. League Division 1 ,Matsumoto Yamaga,Japan
+594,111138,USA Major League Soccer ,Minnesota United FC,United States
+595,111473,International,New Zealand,New Zealand
+596,1937,English League Two ,Notts County,England
+597,110178,German 2. Bundesliga ,SV Sandhausen,Germany
+598,112836,Japanese J. League Division 1 ,Vegalta Sendai,Japan
+599,1569,Polish T-Mobile Ekstraklasa ,Wisła Płock,Poland
+600,1039,Campeonato Brasileiro Série A ,Club Athletico Paranaense,Brazil
+601,445,Rep. Ireland Airtricity League ,Derry City,Republic of Ireland
+602,469,Spanish Segunda División ,Extremadura UD,Spain
+603,1341,International,Iceland,Iceland
+604,272,Danish Superliga ,Odense Boldklub,Denmark
+605,631,Scottish Premiership ,Ross County FC,Scotland
+606,270,Danish Superliga ,Silkeborg IF,Denmark
+607,418,Norwegian Eliteserien ,Tromsø IL,Norway
+608,920,Norwegian Eliteserien ,Vålerenga Fotball,Norway
+609,1446,Danish Superliga ,AC Horsens,Denmark
+610,112171,Swedish Allsvenskan ,AFC Eskilstuna,Sweden
+611,113948,French Ligue 2 ,AS Béziers,France
+612,111708,Argentina Primera División  ,Atlético Tucumán,Argentina
+613,711,Swedish Allsvenskan ,BK Häcken,Sweden
+614,111451,International,Bolivia,Bolivia
+615,517,Campeonato Brasileiro Série A ,Botafogo,Brazil
+616,838,Rep. Ireland Airtricity League ,Bray Wanderers,Republic of Ireland
+617,1891,Portuguese Liga ZON SAGRES ,CD Nacional,Portugal
+618,112534,Chilian Campeonato Nacional ,CD Universidad de Concepción,Chile
+619,110066,Spanish Segunda División ,CF Rayo Majadahonda,Spain
+620,113387,Romanian Liga I ,Chindia Târgovişte,Romania
+621,112165,Chinese Super League ,Chongqing Dangdai Lifan FC SWM Team,China PR
+622,111723,Colombian Liga Postobón ,Deportivo Pasto,Colombia
+623,100766,Russian Premier League ,FC Anzhi Makhachkala,Russia
+624,110752,Romanian Liga I ,FC Botoşani,Romania
+625,100628,Holland Eredivisie ,FC Emmen,Netherlands
+626,10032,Swiss Super League ,FC Lugano,Switzerland
+627,897,Swiss Super League ,FC Luzern,Switzerland
+628,110231,Russian Premier League ,FC Rostov,Russia
+629,982,Korean K League Classic ,FC Seoul,Korea Republic
+630,322,Swiss Super League ,Grasshopper Club Zürich,Switzerland
+631,111588,Korean K League Classic ,Gyeongnam FC,Korea Republic
+632,184,Scottish Premiership ,Hamilton Academical FC,Scotland
+633,112425,Danish Superliga ,Hobro IK,Denmark
+634,212,French Ligue 2 ,La Berrichonne de Châteauroux,France
+635,299,Norwegian Eliteserien ,Lillestrøm SK,Norway
+636,15001,Danish Superliga ,Lyngby BK,Denmark
+637,1904,Holland Eredivisie ,NAC Breda,Netherlands
+638,1786,Danish Superliga ,Randers FC,Denmark
+639,113157,Japanese J. League Division 1 ,Sanfrecce Hiroshima,Japan
+640,1438,Portuguese Liga ZON SAGRES ,Santa Clara,Portugal
+641,111099,International,South Africa,South Africa
+642,110741,Italian Serie B ,Spezia,Italy
+643,100805,Scottish Premiership ,St. Mirren,Scotland
+644,1447,Danish Superliga ,SønderjyskE,Denmark
+645,2017,Austrian Football Bundesliga ,TSV Hartberg,Austria
+646,112983,Chinese Super League ,Tianjin Quanjian FC,China PR
+647,100651,Holland Eredivisie ,VVV-Venlo,Netherlands
+648,753,Rep. Ireland Airtricity League ,Waterford FC,Republic of Ireland
+649,113259,Turkish Süper Lig ,Yeni Malatyaspor,Turkey
+650,101037,Turkish Süper Lig ,Çaykur Rizespor,Turkey
+651,705,Swedish Allsvenskan ,Örebro SK,Sweden
+652,113173,Swedish Allsvenskan ,Östersunds FK,Sweden
+653,112537,Chinese Super League ,Beijing Renhe FC,China PR
+654,112510,Polish T-Mobile Ekstraklasa ,Bruk-Bet Termalica Nieciecza,Poland
+655,112655,Chilian Campeonato Nacional ,Curicó Unido,Chile
+656,112531,Chilian Campeonato Nacional ,Deportes Iquique,Chile
+657,113182,Romanian Liga I ,FC Voluntari,Romania
+658,113458,Swedish Allsvenskan ,IK Sirius,Sweden
+659,114326,Polish T-Mobile Ekstraklasa ,Raków Częstochowa,Poland
+660,110401,Turkish Süper Lig ,Adanaspor,Turkey
+661,111674,Saudi Abdul L. Jameel League ,Al Shabab,Saudi Arabia
+662,112408,Saudi Abdul L. Jameel League ,Al Wehda,Saudi Arabia
+663,112001,Campeonato Brasileiro Série A ,América FC (Minas Gerais),Brazil
+664,111082,Polish T-Mobile Ekstraklasa ,Arka Gdynia,Poland
+665,110394,Argentina Primera División  ,Arsenal de Sarandí,Argentina
+666,1598,Campeonato Brasileiro Série A ,Bahia,Brazil
+667,1848,Italian Serie B ,Bari,Italy
+668,112510,Polish T-Mobile Ekstraklasa ,Bruk-Bet Termalica Nieciecza,Poland
+669,666,Portuguese Liga ZON SAGRES ,CD Aves,Portugal
+670,10019,Portuguese Liga ZON SAGRES ,CD Feirense,Portugal
+671,112409,Italian Serie B ,Carpi,Italy
+672,111059,Campeonato Brasileiro Série A ,Ceará Sporting Club,Brazil
+673,1813,French Ligue 2 ,Chamois Niortais Football Club,France
+674,111711,Argentina Primera División  ,Club Atlético Huracán,Argentina
+675,1893,Portuguese Liga ZON SAGRES ,Clube Sport Marítimo,Portugal
+676,422,Rep. Ireland Airtricity League ,Cork City,Republic of Ireland
+677,1867,Spanish Segunda División ,Córdoba CF,Spain
+678,111721,Colombian Liga Postobón ,Cúcuta Deportivo,Colombia
+679,2056,Korean K League Classic ,Daegu FC,Korea Republic
+680,1572,Rep. Ireland Airtricity League ,Drogheda United,Republic of Ireland
+681,162,German 3. Bundesliga ,FC Energie Cottbus,Germany
+682,1715,Swiss Super League ,FC Thun,Switzerland
+683,1463,Norwegian Eliteserien ,FK Haugesund,Norway
+684,111131,Rep. Ireland Airtricity League ,Finn Harps,Republic of Ireland
+685,112115,Korean K League Classic ,Gangwon FC,Korea Republic
+686,111706,Argentina Primera División  ,Godoy Cruz,Argentina
+687,111042,Campeonato Brasileiro Série A ,Goiás,Brazil
+688,111779,Chinese Super League ,Henan Jianye FC,China PR
+689,698,USA Major League Soccer ,Houston Dynamo,United States
+690,1475,Korean K League Classic ,Jeonnam Dragons,Korea Republic
+691,1439,Swedish Allsvenskan ,Kalmar FF,Sweden
+692,111035,Mexican Liga MX ,Lobos BUAP,Mexico
+693,112420,Norwegian Eliteserien ,Mjøndalen IF,Norway
+694,435,Swiss Super League ,Neuchâtel Xamax,Switzerland
+695,15019,Spanish Segunda División ,Gimnàstic de Tarragona,Spain
+696,101106,Colombian Liga Postobón ,Once Caldas,Colombia
+697,383,Campeonato Brasileiro Série A ,Palmeiras,Brazil
+698,1754,Scottish Premiership ,Partick Thistle FC,Scotland
+699,1474,Korean K League Classic ,Pohang Steelers,Korea Republic
+700,110815,Romanian Liga I ,Politehnica Iaşi,Romania
+701,111065,USA Major League Soccer ,Real Salt Lake,United States
+702,111273,French Ligue 2 ,Red Star FC,France
+703,919,Norwegian Eliteserien ,SK Brann,Norway
+704,2055,Korean K League Classic ,Sangju Sangmu FC,Korea Republic
+705,112199,Norwegian Eliteserien ,Sarpsborg 08 FF,Norway
+706,563,Rep. Ireland Airtricity League ,Sligo Rovers,Republic of Ireland
+707,2007,Belgian Jupiler Pro League ,Sporting Lokeren,Belgium
+708,598,Campeonato Brasileiro Série A ,São Paulo,Brazil
+709,110109,Russian Premier League ,Terek Grozny,Russia
+710,111774,Chinese Super League ,Tianjin TEDA FC,China PR
+711,112448,Japanese J. League Division 1 ,V-Varen Nagasaki,Japan
+712,110700,German 3. Bundesliga ,VfL Sportfreunde Lotte,Germany
+713,550,German 3. Bundesliga ,VfR Aalen,Germany
+714,300,Norwegian Eliteserien ,Viking FK,Norway
+715,346,English League Two ,Yeovil Town,England
+716,110749,Polish T-Mobile Ekstraklasa ,Zagłębie Lubin,Poland
+717,113057,Saudi Abdul L. Jameel League ,Al Fayha,Saudi Arabia
+718,113186,Japanese J. League Division 1 ,Avispa Fukuoka,Japan
+719,112934,Colombian Liga Postobón ,Cortuluá,Colombia
+720,110467,Czech Republic Gambrinus Liga ,1. FC Brno,Czech Republic
+721,112390,Saudi Abdul L. Jameel League ,Al Fateh,Saudi Arabia
+722,110234,Russian Premier League ,Amkar Perm,Russia
+723,110756,Russian Premier League ,Arsenal Tula,Russia
+724,112119,Campeonato Brasileiro Série A ,Atlético Clube Goianiense,Brazil
+725,112528,Colombian Liga Postobón ,Atlético Huila,Colombia
+726,111976,Campeonato Brasileiro Série A ,Avaí FC,Brazil
+727,111707,Argentina Primera División  ,Club Atlético Aldosivi,Argentina
+728,112934,Colombian Liga Postobón ,Cortuluá,Colombia
+729,112585,Chilian Campeonato Nacional ,Deportivo Ñublense,Chile
+730,312,Russian Premier League ,Dinamo Moscow,Russia
+731,112526,Colombian Liga Postobón ,Envigado FC,Colombia
+732,10020,Portuguese Liga ZON SAGRES ,Estoril Praia,Portugal
+733,112096,Saudi Abdul L. Jameel League ,Ettifaq FC,Saudi Arabia
+734,110233,Russian Premier League ,FC Tom Tomsk,Russia
+735,2045,Austrian Football Bundesliga ,FC Wacker Innsbruck,Austria
+736,918,Norwegian Eliteserien ,FK Bodø/Glimt,Norway
+737,110911,Italian Serie B ,Foggia,Italy
+738,111052,Campeonato Brasileiro Série A ,Fortaleza,Brazil
+739,110316,French Ligue 2 ,GFC Ajaccio,France
+740,101024,Turkish Süper Lig ,Gaziantepspor,Turkey
+741,111491,Italian Serie B ,Grosseto,Italy
+742,112258,Korean K League Classic ,GwangJu FC,Korea Republic
+743,111705,Swedish Allsvenskan ,IF Brommapojkarna,Sweden
+744,700,Swedish Allsvenskan ,IF Elfsborg,Sweden
+745,1524,Norwegian Eliteserien ,IK Start,Norway
+746,110765,Korean K League Classic ,Incheon United FC,Korea Republic
+747,112679,Mexican Liga MX ,Jaguares de Chiapas,Mexico
+748,112903,Colombian Liga Postobón ,Jaguares de Córdoba,Colombia
+749,1478,Korean K League Classic ,Jeju United FC,Korea Republic
+750,101145,Japanese J. League Division 1 ,Kashiwa Reysol,Japan
+751,112523,Colombian Liga Postobón ,La Equidad,Colombia
+752,239,Belgian Jupiler Pro League ,Lierse SK,Belgium
+753,621,Scottish Premiership ,Livingston FC,Scotland
+754,112505,Polish T-Mobile Ekstraklasa ,Miedź Legnica,Poland
+755,112925,Argentina Primera División  ,Nueva Chicago,Argentina
+756,1456,Norwegian Eliteserien ,Odds BK,Norway
+757,110912,Italian Serie B ,Padova,Italy
+758,112527,Colombian Liga Postobón ,Patriotas Boyacá FC,Colombia
+759,111802,Italian Serie B ,Ravenna,Italy
+760,1828,German 2. Bundesliga ,Rot-Weiß Oberhausen,Germany
+761,780,Austrian Football Bundesliga ,SV Ried,Austria
+762,110694,German 3. Bundesliga ,SV Werder Bremen II,Germany
+763,110149,Mexican Liga MX ,San Luis,Mexico
+764,112668,Chilian Campeonato Nacional ,San Luis de Quillota,Chile
+765,111713,Argentina Primera División  ,San Martín de San Juan,Argentina
+766,111114,International,Saudi Arabia,Saudi Arabia
+767,324,Swiss Super League ,Servette FC,Switzerland
+768,110714,Spanish Segunda División ,Sevilla Atlético,Spain
+769,917,Norwegian Eliteserien ,Stabæk Fotball,Norway
+770,922,Norwegian Eliteserien ,Strømsgodset IF,Norway
+771,570,Italian Serie B ,Ternana,Italy
+772,110526,German 2. Bundesliga ,TuS Koblenz,Germany
+773,112552,French Ligue 2 ,US Quevilly Rouen Métropole,France
+774,1366,International,Ukraine,Ukraine
+775,112715,Colombian Liga Postobón ,Unión Magdalena,Colombia
+776,203,Italian Serie B ,Urbs Reggina 1914 ,Italy
+777,1719,Campeonato Brasileiro Série A ,Vitória,Brazil
+778,665,Portuguese Liga ZON SAGRES ,Vitória de Setúbal,Portugal
+779,111968,Rep. Ireland Airtricity League ,Wexford Youths,Republic of Ireland
+780,180,Scottish Premiership ,Dundee FC,Scotland
+781,147,English League Two ,Hereford,England
+782,203,Italian Serie B ,Urbs Reggina 1914 ,Italy
+783,112708,Chilian Campeonato Nacional ,AC Barnechea,Chile
+784,113058,Saudi Abdul L. Jameel League ,Abha Club,Saudi Arabia
+785,112990,Saudi Abdul L. Jameel League ,Al Batin,Saudi Arabia
+786,112389,Saudi Abdul L. Jameel League ,Al Faisaly,Saudi Arabia
+787,113222,Saudi Abdul L. Jameel League ,Al Hazem,Saudi Arabia
+788,112883,Saudi Abdul L. Jameel League ,Al Khaleej,Saudi Arabia
+789,112676,Saudi Abdul L. Jameel League ,Al Nahdha Dammam,Saudi Arabia
+790,112675,Saudi Abdul L. Jameel League ,Al Orobah,Saudi Arabia
+791,112391,Saudi Abdul L. Jameel League ,Al Qadisiyah,Saudi Arabia
+792,112392,Saudi Abdul L. Jameel League ,Al Raed,Saudi Arabia
+793,112407,Saudi Abdul L. Jameel League ,Al Shoulla,Saudi Arabia
+794,112393,Saudi Abdul L. Jameel League ,Al Taawoun,Saudi Arabia
+795,112906,Japanese J. League Division 1 ,Albirex Niigata,Japan
+796,112579,Colombian Liga Postobón ,Alianza Petrolera,Colombia
+797,112992,Colombian Liga Postobón ,Atlético Bucaramanga,Colombia
+798,112889,Turkish Süper Lig ,Balıkesirspor,Turkey
+799,112549,French Ligue 2 ,CA Bastia,France
+800,112476,Campeonato Brasileiro Série A ,Chapecoense,Brazil
+801,112713,Argentina Primera División  ,Club Atlético Sarmiento,Argentina
+802,112904,Argentina Primera División  ,Club Atlético Temperley,Argentina
+803,112709,Chilian Campeonato Nacional ,Club Deportes Temuco,Chile
+804,112909,Argentina Primera División  ,Crucero del Norte,Argentina
+805,113876,Swedish Allsvenskan ,Dalkurd FF,Sweden
+806,113217,Saudi Abdul L. Jameel League ,Damac FC,Saudi Arabia
+807,112525,Colombian Liga Postobón ,Deportes Quindío,Colombia
+808,112586,Chilian Campeonato Nacional ,Deportivo San Marcos de Arica,Chile
+809,112513,Portuguese Liga ZON SAGRES ,FC Arouca,Portugal
+810,113720,Danish Superliga ,FC Helsingør,Denmark
+811,112261,Russian Premier League ,FC Orenburg,Russia
+812,112398,Italian Serie B ,FC Pro Vercelli 1892,Italy
+813,113704,Russian Premier League ,FC Tosno,Russia
+814,112424,Danish Superliga ,FC Vestsjælland,Denmark
+815,112834,Colombian Liga Postobón ,Fortaleza CEIF,Colombia
+816,112281,Italian Serie B ,Gubbio,Italy
+817,112394,Saudi Abdul L. Jameel League ,Hajer,Saudi Arabia
+818,112970,Colombian Liga Postobón ,Itagüí Leones FC,Colombia
+819,113459,Norwegian Eliteserien ,Kristiansund BK,Norway
+820,112487,Italian Serie B ,Latina,Italy
+821,112395,Saudi Abdul L. Jameel League ,Najran SC,Saudi Arabia
+822,112282,Italian Serie B ,Nocera Inferiore,Italy
+823,113219,Saudi Abdul L. Jameel League ,Ohod Club,Saudi Arabia
+824,112345,Japanese J. League Division 1 ,Omiya Ardija,Japan
+825,112958,Turkish Süper Lig ,Osmanlıspor,Turkey
+826,112578,Colombian Liga Postobón ,Rionegro Águilas,Colombia
+827,112508,Polish T-Mobile Ekstraklasa ,Sandecja Nowy Sącz,Poland
+828,112374,Norwegian Eliteserien ,Sandnes Ulf,Norway
+829,113378,Romanian Liga I ,Sepsi OSK,Romania
+830,112558,Korean K League Classic ,Suwon FC,Korea Republic
+831,112267,Swedish Allsvenskan ,Syrianska,Sweden
+832,112968,Colombian Liga Postobón ,Tigres FC,Colombia
+833,113216,Spanish Segunda División ,UCAM Murcia CF,Spain
+834,112902,Spanish Segunda División ,UE Llagostera,Spain
+835,112830,Colombian Liga Postobón ,Uniautónoma FC,Colombia
+836,112517,Portuguese Liga ZON SAGRES ,União da Madeira,Portugal
+837,112237,Italian Serie B ,Varese,Italy
+838,113162,Japanese J. League Division 1 ,Ventforet Kofu,Japan
+839,112954,Italian Serie B ,Vicenza,Italy
+840,111989,French Ligue 2 ,AC Arles Avignon,France
+841,111340,Turkish Süper Lig ,Akhisar Belediyespor,Turkey
+842,111717,Argentina Primera División  ,All Boys,Argentina
+843,111704,Campeonato Brasileiro Série A ,América de Natal,Brazil
+844,111965,Rep. Ireland Airtricity League ,Athlone Town,Republic of Ireland
+845,111812,Czech Republic Gambrinus Liga ,Bohemians 1905,Czech Republic
+846,111985,Czech Republic Gambrinus Liga ,Bohemians Praha,Czech Republic
+847,112019,Colombian Liga Postobón ,Boyacá Chicó FC,Colombia
+848,112232,Turkish Süper Lig ,Bucaspor,Turkey
+849,111827,Spanish Segunda División ,CD Guadalajara,Spain
+850,111984,Portuguese Liga ZON SAGRES ,CD Trofense,Portugal
+851,111666,Mexican Liga MX ,CF Indios,Mexico
+852,111769,Chinese Super League ,Changchun Yatai FC,China PR
+853,111715,Argentina Primera División  ,Club Atlético Tigre,Argentina
+854,111810,Spanish Segunda División ,Club Polideportivo Granada 74,Spain
+855,111932,Rep. Ireland Airtricity League ,Cobh Ramblers,Republic of Ireland
+856,111988,Turkish Süper Lig ,Eskişehirspor,Turkey
+857,111271,French Ligue 2 ,Évian Thonon Gaillard FC,France
+858,112236,Czech Republic Gambrinus Liga ,FC Hradec Králové,Czech Republic
+859,111264,Russian Premier League ,FC Ural Yekaterinburg,Russia
+860,111374,Czech Republic Gambrinus Liga ,FK SIAD Most,Czech Republic
+861,112235,Czech Republic Gambrinus Liga ,FK Ústí nad Labem,Czech Republic
+862,112169,Swedish Allsvenskan ,Falkenbergs FF,Sweden
+863,111594,Swedish Allsvenskan ,GAIS,Sweden
+864,112107,Italian Serie B ,Gallipoli,Italy
+865,111277,Swedish Allsvenskan ,Gefle IF,Sweden
+866,112078,Australian Hyundai A-League ,Gold Coast United,Australia
+867,111206,Scottish Premiership ,Gretna,Scotland
+868,112077,Campeonato Brasileiro Série A ,Grêmio Barueri,Brazil
+869,111929,Campeonato Brasileiro Série A ,Ipatinga,Brazil
+870,112130,Swedish Allsvenskan ,Jönköpings Södra IF,Sweden
+871,112122,Turkish Süper Lig ,Kardemir Karabükspor,Turkey
+872,111654,Mexican Liga MX ,Leones Negros de la UdeG,Mexico
+873,111285,Rep. Ireland Airtricity League ,Limerick FC,Republic of Ireland
+874,111959,Swedish Allsvenskan ,Ljungskile SK,Sweden
+875,111433,Italian Serie B ,Mantova,Italy
+876,112072,Swedish Allsvenskan ,Mjällby AIF,Sweden
+877,112079,Australian Hyundai A-League ,North Queensland Fury FC,Australia
+878,112225,Italian Serie B ,Novara,Italy
+879,111429,Polish T-Mobile Ekstraklasa ,Polonia Bytom,Poland
+880,112231,Italian Serie B ,Portogruaro Calcio ASD,Italy
+881,111292,Campeonato Brasileiro Série A ,Portuguesa de Desportos,Brazil
+882,112110,Chilian Campeonato Nacional ,Rangers de Talca,Chile
+883,112200,Norwegian Eliteserien ,Ranheim Fotball,Norway
+884,111432,Italian Serie B ,Rimini,Italy
+885,111540,Portuguese Liga ZON SAGRES ,SC Olhanense,Portugal
+886,111373,Austrian Football Bundesliga ,SC Wiener Neustadt,Austria
+887,111720,Czech Republic Gambrinus Liga ,SK Kladno,Czech Republic
+888,112020,Italian Serie B ,SS Virtus Lanciano,Italy
+889,112022,Austrian Football Bundesliga ,SV Grödig,Austria
+890,111714,Argentina Primera División  ,San Martin de Tucumán,Argentina
+891,111293,Campeonato Brasileiro Série A ,Santo André,Brazil
+892,111266,Russian Premier League ,Sibir Novosibirsk,Russia
+893,111967,Rep. Ireland Airtricity League ,Sporting Fingal,Republic of Ireland
+894,111376,French Ligue 2 ,US Boulogne Cote D'Opale,France
+895,111377,French Ligue 2 ,Vannes OC,France
+896,112237,Italian Serie B ,Varese,Italy
+897,111660,Danish Superliga ,Vendsyssel FF,Denmark
+898,112217,Russian Premier League ,Volga Nizhny Novgorod,Russia
+899,111089,Polish T-Mobile Ekstraklasa ,Zagłębie Sosnowiec,Poland
+900,110306,Belgian Jupiler Pro League ,AFC Tubize,Belgium
+901,110230,Russian Premier League ,Alaniya Vladikavkaz,Russia
+902,110907,Italian Serie B ,Arezzo,Italy
+903,101116,Mexican Liga MX ,Atlante,Mexico
+904,110392,Argentina Primera División  ,Atlético de Rafaela,Argentina
+905,110464,Czech Republic Gambrinus Liga ,Baník Ostrava,Czech Republic
+906,111022,Argentina Primera División  ,Belgrano de Córdoba,Argentina
+907,110701,Spanish Segunda División ,Bilbao Athletic,Spain
+908,110833,Spanish Segunda División ,CD Alcoyano,Spain
+909,110979,Chilian Campeonato Nacional ,CD Cobreloa,Chile
+910,110364,Italian Serie B ,Catania,Italy
+911,110915,Italian Serie B ,Cesena,Italy
+912,110405,Argentina Primera División  ,Chacarita Juniors,Argentina
+913,111070,USA Major League Soccer ,Chivas USA,United States
+914,110398,Argentina Primera División  ,Club Olimpo,Argentina
+915,111050,Campeonato Brasileiro Série A ,Clube Náutico Capibaribe,Brazil
+916,111044,Campeonato Brasileiro Série A ,Coritiba,Brazil
+917,111046,Campeonato Brasileiro Série B ,Criciúma,Brazil
+918,111032,Mexican Liga MX ,Dorados de Sinaloa,Mexico
+919,110471,Czech Republic Gambrinus Liga ,Dynamo České Budějovice,Czech Republic
+920,110780,Mexican Liga MX ,Estudiantes Tecos,Mexico
+921,110239,Russian Premier League ,FC Khimki,Russia
+922,110318,French Ligue 2 ,FC Libourne-Saint-Seurin,France
+923,110229,Russian Premier League ,FC Moskva,Russia
+924,110822,Russian Premier League ,FC Ufa,Russia
+925,110596,German 2. Bundesliga ,FSV Frankfurt,Germany
+926,111045,Campeonato Brasileiro Série A ,Figueirense,Brazil
+927,110576,French Ligue 2 ,Football Bourg En Bresse Peronnas 01,France
+928,110744,Polish T-Mobile Ekstraklasa ,GKS Bełchatów,Poland
+929,111049,Campeonato Brasileiro Série A ,Guarani,Brazil
+930,110565,Polish T-Mobile Ekstraklasa ,Górnik Łęczna,Poland
+931,110775,Turkish Süper Lig ,Hacettepe SK,Turkey
+932,110151,Mexican Liga MX ,Jaguares de Chiapas,Mexico
+933,111054,Campeonato Brasileiro Série B ,Joinville,Brazil
+934,111041,Campeonato Brasileiro Série B ,Juventude,Brazil
+935,101032,Turkish Süper Lig ,Kocaelispor,Turkey
+936,110089,Russian Premier League ,Kuban Krasnodar,Russia
+937,110935,South African Premier Division ,Mamelodi Sundowns FC,South Africa
+938,101035,Turkish Süper Lig ,Manisaspor,Turkey
+939,101036,Turkish Süper Lig ,Mersin İdman Yurdu,Turkey
+940,110472,Czech Republic Gambrinus Liga ,Mladá Boleslav,Czech Republic
+941,110106,Russian Premier League ,Mordovia Saransk,Russia
+942,111048,Campeonato Brasileiro Série A ,Paraná,Brazil
+943,110581,Argentina Primera División  ,Patronato,Argentina
+944,111087,Polish T-Mobile Ekstraklasa ,Podbeskidzie Bielsko-Biała,Poland
+945,111043,Campeonato Brasileiro Série A ,Ponte Preta,Brazil
+946,110554,Argentina Primera División  ,Quilmes Atlético Club,Argentina
+947,110242,Spanish Segunda División ,Racing de Ferrol,Spain
+948,110710,Spanish Segunda División ,Real Madrid Castilla,Spain
+949,110101,Russian Premier League ,SKA Khabarovsk,Russia
+950,111058,Campeonato Brasileiro Série A ,Santa Cruz,Brazil
+951,110976,Chilian Campeonato Nacional ,Santiago Wanderers,Chile
+952,110225,Russian Premier League ,Saturn Ramenskoye,Russia
+953,110082,International,Serbia,Serbia
+954,110103,Russian Premier League ,Spartak Nalchik,Russia
+955,111057,Campeonato Brasileiro Série A ,Sport Club do Recife,Brazil
+956,110466,Czech Republic Gambrinus Liga ,Tescoma Zlín,Czech Republic
+957,110326,French Ligue 2 ,Tours FC,France
+958,110465,Czech Republic Gambrinus Liga ,Viktoria Žižkov,Czech Republic
+959,110902,Spanish Segunda División ,Villarreal CF B,Spain
+960,100149,Czech Republic Gambrinus Liga ,1. FC Slovácko,Czech Republic
+961,100145,Czech Republic Gambrinus Liga ,1. FK Příbram,Czech Republic
+962,1826,German 2. Bundesliga ,Alemannia Aachen,Germany
+963,1872,Spanish Segunda División ,Alicante CF,Spain
+964,1840,Italian Serie B ,Ancona,Italy
+965,101008,Turkish Süper Lig ,Ankaraspor,Turkey
+966,1901,Portuguese Liga ZON SAGRES ,Associação Académica de Coimbra,Portugal
+967,2038,Italian Serie B ,Avellino,Italy
+968,1964,English League Two ,Boston United,England
+969,100852,Spanish Segunda División ,C.D. Castellón,Spain
+970,1857,Spanish Segunda División ,C.P. Ejido,Spain
+971,15021,Spanish Segunda División ,CE Sabadell FC,Spain
+972,2057,Spanish Segunda División ,CF Ciudad de Murcia,Spain
+973,1924,English League Two ,Chesterfield,England
+974,15012,Spanish Segunda División ,Cultural Leonesa,Spain
+975,1957,English League Two ,Darlington,England
+976,101018,Turkish Süper Lig ,Diyarbakırspor,Turkey
+977,1971,Holland Eredivisie ,Excelsior,Netherlands
+978,100851,Spanish Segunda División ,FC Cartagena,Spain
+979,100626,Holland Eredivisie ,FC Dordrecht,Netherlands
+980,10023,Swiss Challenge League ,FC La Chaux-de-Fonds,Switzerland
+981,1862,Swiss Super League ,FC Lausanne-Sport,Switzerland
+982,8001,Belgian Jupiler Pro League ,FC Molenbeek Brussels,Belgium
+983,100741,Portuguese Liga ZON SAGRES ,FC Penafiel,Portugal
+984,100424,German 3. Bundesliga ,FC Rot-Weiß Erfurt,Germany
+985,100994,Swiss Super League ,FC Schaffhausen,Switzerland
+986,100142,Czech Republic Gambrinus Liga ,FK Baumit Jablonec,Czech Republic
+987,2041,Norwegian Eliteserien ,Fredrikstad FK,Norway
+988,100632,Holland Eredivisie ,Go Ahead Eagles,Netherlands
+989,1941,English League Two ,Hartlepool United,England
+990,100879,Spanish Segunda División ,Hércules CF,Spain
+991,1841,Norwegian Eliteserien ,Hønefoss BK,Norway
+992,15011,Austrian Football Bundesliga ,KSV 1919,Austria
+993,1950,German 2. Bundesliga ,Kickers Offenbach,Germany
+994,101032,Turkish Süper Lig ,Kocaelispor,Turkey
+995,100764,Russian Premier League ,Krylya Sovetov Samara,Russia
+996,10018,Portuguese Liga ZON SAGRES ,Leixões SC,Portugal
+997,2015,Austrian Football Bundesliga ,Liebherr GAK,Austria
+998,2026,Spanish Segunda División ,Lorca FC,Spain
+999,1845,Italian Serie B ,Messina,Italy
+1000,1910,Holland Eredivisie ,NEC Nijmegen,Netherlands
+1001,100737,Portuguese Liga ZON SAGRES ,Naval 1° de Maio,Portugal
+1002,100087,Belgian Jupiler Pro League ,Oud-Heverlee Leuven,Belgium
+1003,1855,Spanish Segunda División ,Real Murcia Club de Fútbol,Spain
+1004,100882,Spanish Segunda División ,Real Unión Club Irún,Spain
+1005,1902,Holland Eredivisie ,Roda JC Kerkrade,Netherlands
+1006,1834,German 2. Bundesliga ,Rot-Weiß Ahlen,Germany
+1007,1897,Portuguese Liga ZON SAGRES ,SC Beira Mar,Portugal
+1008,1838,Italian Serie B ,Siena,Italy
+1009,100143,Czech Republic Gambrinus Liga ,Slovan Liberec,Czech Republic
+1010,1931,English League Two ,Stockport County,England
+1011,100768,Russian Premier League ,Torpedo Moscow,Russia
+1012,1946,English League Two ,Torquay United,England
+1013,2021,Italian Serie B ,Treviso,Italy
+1014,1839,Italian Serie B ,Triestina,Italy
+1015,2044,Italian Serie B ,UC AlbinoLeffe,Italy
+1016,1856,Spanish Segunda División ,UD Salamanca,Spain
+1017,100947,Spanish Segunda División ,UD Vecindario,Spain
+1018,1895,Portuguese Liga ZON SAGRES ,União de Leiria,Portugal
+1019,1947,English League Two ,Wrexham,England
+1020,241,Spain Primera Division ,FC Barcelona,Spain
+1021,11,English Premier League ,Manchester United,England
+1022,5,English Premier League ,Chelsea,England
+1023,243,Spain Primera Division ,Real Madrid,Spain
+1024,1,English Premier League ,Arsenal,England
+1025,9,English Premier League ,Liverpool,England
+1026,22,German 1. Bundesliga ,Borussia Dortmund,Germany
+1027,21,German 1. Bundesliga ,FC Bayern München,Germany
+1028,10,English Premier League ,Manchester City,England
+1029,73,French Ligue 1 ,Paris Saint-Germain,France
+1030,245,Holland Eredivisie ,Ajax,Netherlands
+1031,240,Spain Primera Division ,Atlético Madrid,Spain
+1032,191,Austrian Football Bundesliga ,FC Red Bull Salzburg,Austria
+1033,44,Italian Serie A ,Inter,Italy
+1034,47,Italian Serie A ,Milan,Italy
+1035,45,Italian Serie A ,Juventus,Italy
+1036,18,English Premier League ,Tottenham Hotspur,England
+1037,112172,German 1. Bundesliga ,RB Leipzig,Germany
+1038,1943,English Premier League ,Bournemouth,England
+1039,48,Italian Serie A ,Napoli,Italy
+1040,7,English Premier League ,Everton,England
+1041,32,German 1. Bundesliga ,Bayer 04 Leverkusen,Germany
+1042,52,Italian Serie A ,Roma,Italy
+1043,34,German 1. Bundesliga ,FC Schalke 04,Germany
+1044,95,English Premier League ,Leicester City,England
+1045,461,Spain Primera Division ,Valencia CF,Spain
+1046,110,English Premier League ,Wolverhampton Wanderers,England
+1047,66,French Ligue 1 ,Olympique Lyonnais,France
+1048,19,English Premier League ,West Ham United,England
+1049,110374,Italian Serie A ,Fiorentina,Italy
+1050,247,Holland Eredivisie ,PSV,Netherlands
+1051,1792,English Premier League ,Norwich City,England
+1052,449,Spain Primera Division ,Real Betis,Spain
+1053,1824,German 1. Bundesliga ,Eintracht Frankfurt,Germany
+1054,38,German 1. Bundesliga ,SV Werder Bremen,Germany
+1055,234,Portuguese Liga ZON SAGRES ,SL Benfica,Portugal
+1056,481,Spain Primera Division ,Sevilla FC,Spain
+1057,69,French Ligue 1 ,AS Monaco,France
+1058,219,French Ligue 1 ,Olympique de Marseille,France
+1059,2,English Premier League ,Aston Villa,England
+1060,13,English Premier League ,Newcastle United,England
+1061,110679,German 3. Bundesliga ,Bayern München II,Germany
+1062,236,Portuguese Liga ZON SAGRES ,FC Porto,Portugal
+1063,74,French Ligue 1 ,Stade Rennais FC,France
+1064,237,Portuguese Liga ZON SAGRES ,Sporting CP,Portugal
+1065,65,French Ligue 1 ,LOSC Lille,France
+1066,17,English Premier League ,Southampton,England
+1067,39,Italian Serie A ,Atalanta,Italy
+1068,23,German 1. Bundesliga ,Borussia Mönchengladbach,Germany
+1069,50,Italian Serie A ,Parma,Italy
+1070,457,Spain Primera Division ,Real Sociedad,Spain
+1071,325,Turkish Süper Lig ,Galatasaray SK,Turkey
+1072,28,German 2. Bundesliga ,Hamburger SV,Germany
+1073,10029,German 1. Bundesliga ,TSG 1899 Hoffenheim,Germany
+1074,175,German 1. Bundesliga ,VfL Wolfsburg,Germany
+1075,326,Turkish Süper Lig ,Fenerbahçe SK,Turkey
+1076,190,Italian Serie A ,Brescia,Italy
+1077,448,Spain Primera Division ,Athletic Club de Bilbao,Spain
+1078,8,English League Championship ,Leeds United,England
+1079,1799,English Premier League ,Crystal Palace,England
