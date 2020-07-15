@@ -112,4 +112,17 @@ japan_players[['short_name', 'long_name', 'age', 'overall', 'potential', 'value_
 
 japan_players[['short_name', 'long_name', 'age', 'overall', 'potential', 'value_eur', 'wage_eur', 'club']].head(10)
 
+japan_players.describe()
+
+pd.get_option("display.max_columns")
+
+japan_players.get_option("display.max_columns")
+
+
+japan_players
+
+pd.set_option('display.max_columns', 104)
+
+japan_players
+
 

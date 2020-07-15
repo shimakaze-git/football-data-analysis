@@ -11,6 +11,7 @@ jupytext = "*"
 pandas = "*"
 beautifulsoup4 = "*"
 requests = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
