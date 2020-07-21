@@ -12,6 +12,8 @@ pandas = "*"
 beautifulsoup4 = "*"
 requests = "*"
 matplotlib = "*"
+seaborn = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.8"

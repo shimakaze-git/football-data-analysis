@@ -21,7 +21,10 @@ df = pd.read_csv(
     '../data/players_20.csv'
 )
 
-print(df.columns)
+for column in df.columns:
+    print(column)
+
+# print(df.columns)
 print(df.shape)
 print(df.describe())
 
@@ -33,6 +36,7 @@ numbers = nationalities.value_counts(sort=True).to_list()[:10]
 left = np.array(countries)
 height = np.array(numbers)
 
+plt.figure(figsize=(10, 10))
 plt.bar(left, height)
 plt.title('Players count')
 plt.xlabel('Countries')
