@@ -390,11 +390,11 @@ def players_comparison(player_1, player_2):
     print('cos', cos)
 
     # カラムの表示
-    columns_views(player_1_df, player_2_df)
+    # columns_views(player_1_df, player_2_df)
 
 
 shinji_kagawa = 189358
-david_silva = 41
+david_silva = 178088
 # david_silva = 41
 # 香川真司 : 189358
 # 本田圭佑 : 186581
@@ -431,6 +431,7 @@ david_silva = 41
 # ハリー・ケイン : 202126
 # ムバッペ : 231747
 # グリーズマン : 194765
+# ジェラール・ピケ : 152729
 
 
 players_comparison(shinji_kagawa, david_silva)
