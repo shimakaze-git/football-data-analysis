@@ -15,6 +15,7 @@ matplotlib = "*"
 seaborn = "*"
 scipy = "*"
 scikit-learn = "*"
+scrapy = "*"
 
 [requires]
 python_version = "3.8"

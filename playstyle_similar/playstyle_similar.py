@@ -4,6 +4,31 @@ from scaling import convert_scaling
 from similar import similarity
 
 
+# 全選手と類似度を比較する
+def similar_all_players(df, player_id):
+    df_data = pd.read_csv('../data/players_18.csv')
+    df_data['similarity'] = 0
+
+    for i, sofifa_id in enumerate(df['sofifa_id']):
+        player_1_df = df.query('sofifa_id == {}'.format(player_id))
+        player_2_df = df.query('sofifa_id == {}'.format(sofifa_id))
+
+        player_1_df = player_1_df.drop(columns='sofifa_id')
+        player_2_df = player_2_df.drop(columns='sofifa_id')
+
+        cos = similarity(player_1_df, player_2_df)
+
+        # 行番号を取得
+        idx = df_data.reset_index().query(
+            'sofifa_id == {}'.format(sofifa_id)
+        ).index[0]
+
+        df_data.loc[idx, 'similarity'] = cos[0]
+        print(i, sofifa_id, cos)
+
+    return df_data.sort_values('similarity', ascending=False)
+
+
 # ヒートマップの情報を表示
 def heatmap_info(player_1_df, player_2_df):
 
@@ -375,11 +400,17 @@ def players_comparison(player_1, player_2):
     # 相関度やヒートマップ情報の抽出
     # heatmap_info(player_1_df, player_2_df)
 
+    # 全選手と類似度を比較する
+    sort_similarities = similar_all_players(df, player_1)
+
+    # pickle化
+    sort_similarities.to_pickle('./similar_all_players.pkl')
+
 
 shinji_kagawa = 189358
 # david_silva = 192318
-# david_silva = 168542
-david_silva = 41
+david_silva = 189881
+# david_silva = 41
 # david_silva = 189881
 # david_silva = 188152
 # 香川真司 : 189358

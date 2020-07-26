@@ -1,4 +1,4 @@
-import pandas as pd
+# import pandas as pd
 import numpy as np
 
 from scipy import stats
@@ -61,31 +61,32 @@ def similarity(v1_df, v2_df):
     v2_value = v2_df.values[0]
 
     # リストをps.Seriesに変換
-    s1 = pd.Series(list(v1_value))
-    s2 = pd.Series(list(v2_value))
+    # s1 = pd.Series(list(v1_value))
+    # s2 = pd.Series(list(v2_value))
 
     # 相関係数を計算
-    res = s1.corr(s2)
-    print(res)
+    # res = s1.corr(s2)
+    # print(res)
 
     corr = pearson_product_moment_correlation_coefficien(
         v1_value, v2_value
     )
-    print('pearson_product_moment_correlation_coefficien', corr)
+    # print('pearson_product_moment_correlation_coefficien', corr)
 
-    corr = spearman_rank_correlation_coefficient(
-        v1_value, v2_value
-    )
-    print('spearman_rank_correlation_coefficient', corr)
+    # corr = spearman_rank_correlation_coefficient(
+    #     v1_value, v2_value
+    # )
+    # print('spearman_rank_correlation_coefficient', corr)
 
-    corr = kendalltau_rank_correlation_coefficient(
-        v1_value, v2_value
-    )
-    print('kendalltau_rank_correlation_coefficient', corr)
+    # corr = kendalltau_rank_correlation_coefficient(
+    #     v1_value, v2_value
+    # )
+    # print('kendalltau_rank_correlation_coefficient', corr)
 
-    e_distance = euclidean_distance(v1_value, v2_value)
-    print('e_distance', e_distance)
+    # e_distance = euclidean_distance(v1_value, v2_value)
+    # print('e_distance', e_distance)
 
-    # return euclidean_distance(v1_value, v2_value)
-    # return res
-    return cos_similarity(v1_value, v2_value)
+    # cos_similarity_val = cos_similarity(v1_value, v2_value)
+    # print('cos_similarity_val', cos_similarity_val)
+
+    return corr
