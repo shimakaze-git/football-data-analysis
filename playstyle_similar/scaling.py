@@ -246,3 +246,30 @@ def convert_scaling(df):
         )
 
     return df
+
+
+if __name__ == "__main__":
+    df_list = [
+        [185, 80, 90, 93, 82, 90, 33],
+        [185, 80, 90, 86, 82, 96, 26],
+        [175, 68, 92, 84, 79, 95, 30],
+        [193, 92, 67, 52, 57, 62, 50],
+        [182, 86, 82, 90, 79, 87, 42]
+    ]
+    df = pd.DataFrame(
+        df_list,
+        # index=[
+        #     'クリスティアーノ・ロナウド',
+        #     'リオネル・メッシ',
+        #     'ネイマール',
+        #     'マヌエル・ノイアー',
+        #     'ルイス・スアレス'
+        # ],
+        columns=[
+            'height_cm', 'weight_kg',
+            'pace', 'shooting', 'passing', 'dribbling', 'defending'
+        ]
+    )
+    print(df['height_cm'])
+    df = standard_scaler(df, ['height_cm'])
+    print(df.values)
