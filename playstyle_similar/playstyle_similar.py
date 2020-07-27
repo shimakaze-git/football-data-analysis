@@ -3,28 +3,40 @@ import pandas as pd
 from scaling import convert_scaling
 from similar import similarity
 
+from recommendation import _recommendation
+
 
 # 全選手と類似度を比較する
 def similar_all_players(df, player_id):
     df_data = pd.read_csv('../data/players_18.csv')
     df_data['similarity'] = 0
 
-    for i, sofifa_id in enumerate(df['sofifa_id']):
-        player_1_df = df.query('sofifa_id == {}'.format(player_id))
-        player_2_df = df.query('sofifa_id == {}'.format(sofifa_id))
+    # player_idの行番号を取得
+    idx = df_data.reset_index().query(
+        'sofifa_id == {}'.format(player_id)
+    ).index[0]
 
-        player_1_df = player_1_df.drop(columns='sofifa_id')
-        player_2_df = player_2_df.drop(columns='sofifa_id')
+    # リコメンドの結果を返す
+    d = _recommendation(df, idx)
+    df_data['similarity'] = d[0]
 
-        cos = similarity(player_1_df, player_2_df)
+    # 10分ぐらいかかる遅い処理
+    # for i, sofifa_id in enumerate(df['sofifa_id']):
+    #     player_1_df = df.query('sofifa_id == {}'.format(player_id))
+    #     player_2_df = df.query('sofifa_id == {}'.format(sofifa_id))
 
-        # 行番号を取得
-        idx = df_data.reset_index().query(
-            'sofifa_id == {}'.format(sofifa_id)
-        ).index[0]
+    #     player_1_df = player_1_df.drop(columns='sofifa_id')
+    #     player_2_df = player_2_df.drop(columns='sofifa_id')
 
-        df_data.loc[idx, 'similarity'] = cos[0]
-        print(i, sofifa_id, cos)
+    #     cos = similarity(player_1_df, player_2_df)
+
+    #     # 行番号を取得
+    #     idx = df_data.reset_index().query(
+    #         'sofifa_id == {}'.format(sofifa_id)
+    #     ).index[0]
+
+    #     df_data.loc[idx, 'similarity'] = cos[0]
+    #     print(i, sofifa_id, cos)
 
     return df_data.sort_values('similarity', ascending=False)
 
